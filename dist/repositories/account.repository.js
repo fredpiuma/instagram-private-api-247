@@ -312,6 +312,6 @@ class AccountRepository extends repository_1.Repository {
         return body;
     }
 }
-exports.AccountRepository = AccountRepository;
 AccountRepository.accountDebug = (0, debug_1.default)('ig:account');
+exports.AccountRepository = AccountRepository;
 //# sourceMappingURL=account.repository.js.map

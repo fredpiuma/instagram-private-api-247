@@ -414,6 +414,6 @@ class PublishService extends repository_1.Repository {
         });
     }
 }
-exports.PublishService = PublishService;
 PublishService.publishDebug = (0, debug_1.default)('ig:publish');
+exports.PublishService = PublishService;
 //# sourceMappingURL=publish.service.js.map

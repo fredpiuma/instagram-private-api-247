@@ -4,7 +4,7 @@ import { Options } from 'request';
 import { IgApiClient } from './client';
 import { IgClientError } from '../errors';
 import { IgResponse } from '../types';
-declare type Payload = {
+type Payload = {
     [key: string]: any;
 } | string;
 interface SignedPost {

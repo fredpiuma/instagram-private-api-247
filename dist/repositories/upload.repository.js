@@ -169,6 +169,6 @@ class UploadRepository extends repository_1.Repository {
         return ruploadParams;
     }
 }
-exports.UploadRepository = UploadRepository;
 UploadRepository.uploadDebug = (0, debug_1.default)('ig:upload');
+exports.UploadRepository = UploadRepository;
 //# sourceMappingURL=upload.repository.js.map

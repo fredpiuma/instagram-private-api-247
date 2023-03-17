@@ -168,6 +168,6 @@ class Request {
         };
     }
 }
-exports.Request = Request;
 Request.requestDebug = (0, debug_1.default)('ig:request');
+exports.Request = Request;
 //# sourceMappingURL=request.js.map
